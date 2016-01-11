@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# CONFIG file is ignore for security reasons
+CONFIGS.py
